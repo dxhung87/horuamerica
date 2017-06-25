@@ -1,5 +1,4 @@
-{
-da up date rooi
+{ d sua roi
   "setting_id": "thaigiao_application",
   "show_ads_banner": "1",
   "show_ads_inter": "1",
