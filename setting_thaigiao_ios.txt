@@ -1,4 +1,4 @@
-{ d sua roi
+{ d sua roi lan 2 time 2h31
   "setting_id": "thaigiao_application",
   "show_ads_banner": "1",
   "show_ads_inter": "1",
