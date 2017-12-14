@@ -1,0 +1,41 @@
+{
+    "GetHoroscopeDataResult": {
+        "Exception": null,
+        "IsSuccess": true,
+        "Log": null,
+        "Data": [
+            {
+                "ID": "b76996b8-0a79-4f21-beef-8d2d84bac7f9",
+                "MainContent": "There's some possibility that in the past month or so you've been hesitant about your commitments, as if you'd been in suspended animation. Perhaps you became aware of errors you'd made in the past and were afraid you'd repeat them. Now that you're conscious of the past, you can and will face the future with more confidence.\n</p>",
+                "Period": 5,
+                "PeriodTitle": "Dec 13, 2017",
+                "Sign": 1,
+                "Type": 1
+            },
+            {
+                "ID": "3157aca5-594d-487c-b82c-a115ddb0ee7f",
+                "MainContent": "You'll say more than you mean to. If you are fed up with a current relationship, then a poorly-timed sarcastic comment could be all you need to bring it to a timely end. Especially if you are happy where you are, it may help to think before you speak. Otherwise, you may accidentally say something tactless and hurt the one you love.",
+                "Period": 5,
+                "PeriodTitle": "Dec 13, 2017",
+                "Sign": 1,
+                "Type": 2
+            },
+            {
+                "ID": "32477239-73d3-4746-a421-60035a0160f5",
+                "MainContent": "Don't over-analyze every small detail that crosses your path. Once you start this trend, you won't be able to stop. You will end up wasting a great deal of time. Paying attention to details is important, but obsessing over them is detrimental.\n</p>",
+                "Period": 5,
+                "PeriodTitle": "Dec 13, 2017",
+                "Sign": 1,
+                "Type": 3
+            },
+            {
+                "ID": "2babeac4-c468-43a1-821e-afb23b27582f",
+                "MainContent": "The atmosphere of the day provides lots of energy and shows you that you need to engage your mind to manage your body. Think of your mind as the heroic forest ranger who contains a raging fire. There is a lot of positive use in fire, but it must be contained. Discipline is the name of the game. Use your mind to convince yourself to get your running shoes on, to prepare a healthy dinner, or to get up and refill your water glass.\n</p>",
+                "Period": 5,
+                "PeriodTitle": "Dec 13, 2017",
+                "Sign": 1,
+                "Type": 5
+            }
+        ]
+    }
+}
